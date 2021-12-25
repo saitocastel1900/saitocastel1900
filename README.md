@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ryoma</h1>
 <h3 align="center">I'm a student programmer living in Japan.</h3>
 
+- ⚡ Fun fact **I'm a big fan of jokey code.**
+- ☕ Daily Habits **Drinking coffee makes you sick to your stomach..**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kanagawaryoma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanagawaryoma" height="30" width="40" /></a>
