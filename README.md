@@ -1,3 +1,7 @@
+[![saitocastel1900's github stats](https://github-readme-stats.vercel.app/api?username=saitocastel1900&hide=contribs&count_private=true&show_icons=true)](https://github.com/saitocastel1900/)
+
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saitocastel1900&layout=compact)](https://github.com/saitocastel1900/)
+
 <h1 align="center">Hi 👋, I'm Ryoma</h1>
 <h3 align="center">I'm a student programmer living in Japan.</h3>
 
