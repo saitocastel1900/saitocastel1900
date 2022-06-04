@@ -4,7 +4,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=saitocastel1900&hide=contribs&count_private=true&show_icons=true&theme=vue" />
 </a>
 <a href="https://github.com/saitocastel1900/github-readme-stats">
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitocastel1900&layout=t&theme=vue" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitocastel1900&layout=compact&theme=vue" />
 </a>
 </div>
 
