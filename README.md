@@ -12,6 +12,6 @@ Recent focus | GameDev | CG | Plug-in Dev.
 <img src="https://img.shields.io/badge/Itch.io-FA5C5C.svg?style=for-the-badge&logo=itchdotio&logoColor=white"><img src="https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=white"><img src="https://img.shields.io/badge/Google%20Play-414141.svg?style=for-the-badge&logo=Google-Play&logoColor=white">
 
 
-## Songs I've been listening to recently.
+## Other's
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bowoxggo6vzkcjr3w64guuzfqu&unique={true|1|on|yes})
 ![github-user-contribution (1)](https://user-images.githubusercontent.com/96648305/178339392-fba04018-fd83-4c36-aa0f-24902de5500b.svg)
