@@ -9,3 +9,6 @@ Recently focus on Frontend | GameDev | CG | Plug-in Dev.
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bowoxggo6vzkcjr3w64guuzfqu&unique={true|1|on|yes})
 ![github-user-contribution (1)](https://user-images.githubusercontent.com/96648305/178339392-fba04018-fd83-4c36-aa0f-24902de5500b.svg)
 
+<img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black">
+<img src="https://img.shields.io/badge/Godot%20Engine-478CBF.svg?style=for-the-badge&logo=Godot-Engine&logoColor=white">                                                                                                    
+                                                                                                       
