@@ -1,6 +1,6 @@
 
 ## SaitoRyoma 
-Recently focus on Frontend | GameDev | CG | Plug-in Dev.  
+Recent focus | GameDev | CG | Plug-in Dev.  
 
 #### Platform&Tools&languages
 
