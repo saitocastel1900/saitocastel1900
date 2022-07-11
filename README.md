@@ -6,3 +6,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saitocastel1900&&show_icons=true&theme=vue&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saitocastel1900&layout=compact&theme=vue)](https://github.com/saitocastel1900/github-readme-stats)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bowoxggo6vzkcjr3w64guuzfqu)
