@@ -13,5 +13,5 @@ Recent focus | GameDev | CG | Plug-in Dev.
 
 
 ## Other's
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bowoxggo6vzkcjr3w64guuzfqu&unique={true|1|on|yes})  
 ![](./profile-3d-contrib/profile-green-animate.svg)  
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=osixnn5fvezud70sbgvdy8niv&unique={true|1|on|yes})  
